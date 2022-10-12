@@ -1,0 +1,35 @@
+/* Selectores tag */
+p {
+    color: blue;
+}
+
+h3 {
+    color: red;
+}
+
+/* Selectores class */
+.titulo {
+    font-size: 3rem;
+    color: #333333;
+    text-align: center;
+}
+
+.grande {
+    font-size: 6rem;
+}
+
+.sublinhado {
+    text-decoration: underline;
+}
+
+
+/* Selectores id */
+#botao-bonito {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: green;
+    color: white;
+    text-decoration: none;
+}

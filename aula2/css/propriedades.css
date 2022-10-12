@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('../img/background.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.quadrado {
+    color: red;
+    background-color: black;
+    width: 300px;
+    height: 200px;
+    border-top: 3px solid orange;
+    border-radius: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding: 50px 30px;
+}
+
+button {
+    margin: 100px 25px;
+    padding: 20px 50px;
+    border-radius: 15px;
+    border: none;
+    background-color: crimson;
+    color: white;
+    font-size: 20px;
+    box-shadow: 10px 10px 10px black;
+}
+
+p {
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: white;
+}
+
+ul {
+    background-color: white;
+    list-style: none;
+    height: 70px;
+    padding: 23px;
+}
+
+li {
+    display: inline;
+    margin-left: 10px;
+}
+
+li a {
+    text-decoration: none;
+}

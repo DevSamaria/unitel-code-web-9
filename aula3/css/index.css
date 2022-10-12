@@ -1,0 +1,27 @@
+.container {
+    width: 350px;
+    background-color: crimson;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.item1 {
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+}
+
+.item2 {
+    width: 50px;
+    height: 50px;
+    background-color: violet;
+}
+
+.item3 {
+    width: 50px;
+    height: 50px;
+    background-color: green;
+}
